@@ -17,14 +17,6 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
 ![mng1](https://user-images.githubusercontent.com/59365403/157882315-137c5dc9-5843-4b41-992b-0fbfd9c06ee2.png)
 
 
