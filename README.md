@@ -1,4 +1,7 @@
-# app
+# Employee Managment Portal
+  
+  ### .Net Core
+ 
 
 ## Project setup
 ```
