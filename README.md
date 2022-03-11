@@ -1,7 +1,12 @@
 # Employee Managment Portal
   
-  ### .Net Core
- 
+  ###  -  .Net Core
+  ###  -   Vue JS 3
+  ###  -   Mongo DB
+  ###  -   Axios
+  ###  -   Basic CRUD Operation
+  
+ ```
 
 ## Project setup
 ```
